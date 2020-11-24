@@ -1,0 +1,15 @@
+asgiref==3.2.10
+beautifulsoup4==4.9.3
+bs4==0.0.1
+certifi==2020.11.8
+chardet==3.0.4
+Django==3.0.8
+django-filter==2.3.0
+djangorestframework==3.11.0
+idna==2.10
+Markdown==3.2.2
+pytz==2020.1
+requests==2.25.0
+soupsieve==2.0.1
+sqlparse==0.3.1
+urllib3==1.26.2
